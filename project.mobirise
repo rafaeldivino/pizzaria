@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Media",
-    "currentPage": "index.html",
+    "currentPage": "espirra.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2406,7 +2406,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, MUSSARELA (2 CAMADAS), CATUPIRY, BATATA PALHA (DEPOIS DE ASSADA)",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$1,00 UND. \n<br>Broto<br></a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=5592993269489&amp;text=quero%20uma%20pizza\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$1,00 UND. \n<br>Broto<br></a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://api.whatsapp.com/send?phone=+559293269489&amp;text=quero%20uma%20pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
               }
             ]
           }
