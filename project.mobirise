@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grande",
-    "currentPage": "espirra.html",
+    "currentPage": "big.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -749,7 +749,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, PRESUNTO, TOMATES E MUSSARELA",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$29,00 UND.<br>Media</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$29,00 UND.<br>Media</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background2-259x194.jpg",
@@ -1595,7 +1595,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, PRESUNTO E MUSSARELA",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>R$36,00 UND. \n<br>Família</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>R$36,00 UND. \n<br>Família</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background1-640x420.jpg",
@@ -3115,7 +3115,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, MUSSARELA E MILHO",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$50,00 UND. <br>Big<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>R$50,00 UND. <br>Big<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background1-640x420.jpg",
@@ -3995,7 +3995,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, PRESUNTO E MUSSARELA",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>R$33,00 UND.\n<br>Grande</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>R$33,00 UND.\n<br>Grande</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Pedido via Whatsapp</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background1-640x420.jpg",
