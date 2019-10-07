@@ -766,7 +766,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "MOLHO DE TOMATE, MUSSARELA, BACON, CALABRESA, OVOS E CEBOLA",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span>R$29,00&nbsp;UND.<br>Media<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=PIZZA,MEDIA,%20AMERICANA%20R$29,00\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span>Pedido via Whatsapp</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://api.whatsapp.com/send?phone=92984366839&amp;text=Ol%C3%A1,%20meu%20amigo!\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span>R$29,00&nbsp;UND.<br>Media<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://wa.me/+5592993269489\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span>Pedido via Whatsapp</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background3-550x366.jpg",
